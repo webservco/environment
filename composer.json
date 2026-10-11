@@ -20,7 +20,7 @@
             "dealerdirect/phpcodesniffer-composer-installer": true
         }
     },
-    "description" : "A PHP component/library.",
+    "description" : "A PHP component/library. Names for the environments an application runs in: development, testing, staging and production.",
     "homepage" : "https://webserv.co",
     "keywords" : [
         "component",
